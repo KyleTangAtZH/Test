@@ -5,6 +5,7 @@ class HelloWord extends Parent implements Interface {
 		this.name = name;
 	}
 	public void setAge(int age){
+		//这是注释
 		this.age = age;
 	}
 }
